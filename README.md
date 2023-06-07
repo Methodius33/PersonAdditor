@@ -1,0 +1,1 @@
+Изучить CSS свойство postion (reletive, absolute, fixed, sticky(посотреть))
